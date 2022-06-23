@@ -6,6 +6,8 @@
 // Author: Marta Fernández
 // Author uri: https://github.com/Marferblanco-ctrl
 
+// subida a github
+
 
 function bootstrap() {
     wp_enqueue_style( 'css_bootstrap', 'https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css' );
