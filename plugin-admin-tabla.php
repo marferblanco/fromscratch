@@ -7,7 +7,8 @@
 // Author uri: https://github.com/Marferblanco-ctrl
 
 // subida a github
-// forzar subida 
+// forzar subida
+// he creado el repositorio en github
 
 
 function bootstrap() {
